@@ -1,0 +1,16 @@
+# UI
+streamlit
+
+# Data
+pandas
+numpy
+yfinance
+ta
+matplotlib
+seaborn
+
+# ML
+torch
+scikit-learn
+
+
